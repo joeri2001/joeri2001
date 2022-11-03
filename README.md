@@ -1,1 +1,1 @@
-### Hello 👋 my name is Joeri and I'm a fullstack developer.
+### Hello 👋 my name is Joeri and I'm a web and game developer.
